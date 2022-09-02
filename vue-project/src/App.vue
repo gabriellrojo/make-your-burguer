@@ -35,6 +35,6 @@
     list-style: none;
   }
   .main-container{
-    height: 90vh;
+    min-height: 97vh;
   }
 </style>

@@ -53,11 +53,32 @@
   ],
   "burgers": [
     {
+      "name": "Elvira",
+      "pao": "Italiano Branco",
+      "carne": "Picanha",
+      "status": "Finalizado",
+      "id": 5
+    },
+    {
+      "name": "Elvira",
+      "pao": "Italiano Branco",
+      "carne": "Maminha",
+      "status": "Solicitado",
+      "id": 6
+    },
+    {
+      "name": "Gabriel",
+      "pao": "Italiano Branco",
+      "carne": "Maminha",
+      "status": "Em produção",
+      "id": 7
+    },
+    {
       "name": "Gabriel",
       "pao": "3 Queijos",
       "carne": "Maminha",
       "status": "Solicitado",
-      "id": 1
+      "id": 8
     }
   ]
 }

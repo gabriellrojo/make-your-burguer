@@ -41,7 +41,7 @@ export default {
             nome: null,
             pao: null,
             carne: null,
-            status: "Solicitado",
+            status: null,
             msgsucess: null,
             msgerror: null,
             textmsgsuccess: false,

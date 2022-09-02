@@ -6,7 +6,7 @@ Este projeto foi criando utilizando VueJs. O principal objetivo deste projeto fo
 
 <img width="1238" alt="Screen Shot 2022-09-02 at 12 11 03" src="https://user-images.githubusercontent.com/96317035/188180807-6769c7a4-b022-4767-8eb2-cd6e8df11b0d.png">
 
-<img width="1238" alt="Screen Shot 2022-09-02 at 12 11 03" src="https://user-images.githubusercontent.com/96317035/188180830-bd7698bf-65a1-4f3d-b723-33a0e63e4843.png">
+<img width="1240" alt="Screen Shot 2022-09-02 at 12 11 57" src="https://user-images.githubusercontent.com/96317035/188187581-12ccd13a-183e-4fc0-89ab-d28c1f37bb95.png">
 
 # O Desafio
 

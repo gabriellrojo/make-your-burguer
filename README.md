@@ -4,7 +4,9 @@ Este projeto foi criando utilizando VueJs. O principal objetivo deste projeto fo
 
 # Make Your Burguer challenge
 
-<img width="1135" alt="Screen Shot 2022-07-07 at 16 43 30" src="https://user-images.githubusercontent.com/96317035/177859803-6b9aa253-a43d-4e3e-ae08-14af3df7eb11.png">
+<img width="1238" alt="Screen Shot 2022-09-02 at 12 11 03" src="https://user-images.githubusercontent.com/96317035/188180807-6769c7a4-b022-4767-8eb2-cd6e8df11b0d.png">
+
+<img width="1238" alt="Screen Shot 2022-09-02 at 12 11 03" src="https://user-images.githubusercontent.com/96317035/188180830-bd7698bf-65a1-4f3d-b723-33a0e63e4843.png">
 
 # O Desafio
 
@@ -12,4 +14,4 @@ Simulando uma api em um arquivo .json que contém um array de objetos separados 
 
 # Deploy
 
-https://secret-word-nv6v23oz3-gabriellrojo.vercel.app/
+

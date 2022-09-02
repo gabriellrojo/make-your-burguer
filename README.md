@@ -12,6 +12,4 @@ Este projeto foi criando utilizando VueJs. O principal objetivo deste projeto fo
 
 Simulando uma api em um arquivo .json que contém um array de objetos separados por categorias, o usuário monta seu hamburguer. Os dados chegam ao front através de um fetch get e são repassados ao backend "mockado" através de um fetch post. Métodos de delete e patch também foram contemplados neste exercício.
 
-# Deploy
-
 
